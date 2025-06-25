@@ -1,0 +1,9 @@
+date,state,confirmed,deaths,recovered
+2020-03-01,Tamil Nadu,1,0,0
+2020-03-02,Tamil Nadu,2,0,0
+2020-03-03,Tamil Nadu,3,0,1
+2020-03-04,Tamil Nadu,5,0,2
+2020-03-05,Tamil Nadu,10,0,5
+2020-03-06,Tamil Nadu,20,1,10
+2020-03-07,Tamil Nadu,40,2,20
+
